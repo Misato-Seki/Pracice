@@ -5,3 +5,7 @@ lemon
 tomato
 potato
 salmon
+
+egg
+milk
+bread
