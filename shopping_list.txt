@@ -1,0 +1,7 @@
+apple
+banana
+rice
+lemon
+tomato
+potato
+salmon
